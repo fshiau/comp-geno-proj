@@ -1,6 +1,6 @@
 # comp-geno-proj
 Repo for CBMFW4761 final project: predicting gene expression based on epigenetics and chromatin structures
-
+```
 Directory structure:
 ├── README.md
 ├── data (not on github because of size)
@@ -12,3 +12,4 @@ Directory structure:
     └── 2_hmm
         └── 2.0_fit-model.ipynb
 
+```
