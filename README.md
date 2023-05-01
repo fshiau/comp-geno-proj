@@ -9,7 +9,10 @@ Directory structure:
 └── src
     ├── 1_preprocess
     │   └── 1.2_merge-peaks.ipynb
-    └── 2_hmm
-        └── 2.0_fit-model.ipynb
-
+    ├── 2_hmm
+    │   └── 2.0_fit-model.ipynb
+    └── 3_ml
+        ├── binary.ipynb
+        ├── signal.ipynb
+        └── promoter.ipynb
 ```
