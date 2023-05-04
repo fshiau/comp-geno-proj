@@ -1,3 +1,7 @@
+"""
+2.1_split-data-hmm
+Merge the processed data and generate train and valididation set for GMM-HMM
+"""
 # %%
 data = "/Users/fionshiau/Library/CloudStorage/GoogleDrive-fioncshiau@gmail.com/My Drive/ComputationalGenomics/SignalAproach"
 # %%
